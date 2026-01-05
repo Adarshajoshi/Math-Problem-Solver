@@ -1,0 +1,5 @@
+streamlit>=1.25.0
+langchain-groq>=0.0.15
+langchain-classic>=0.0.8
+wikipedia-api>=0.5.4
+numexpr>=2.8.8
